@@ -1,0 +1,16 @@
+# Purrfect Idle
+
+> An idle game about collecting cat food!
+
+Purrfect Idle is a game about collecting an absurd amount of cat food.  
+To help you in this endeavor, you will recruit a wide variety of helpful tools and upgrades, like Cats, Cat Trees, Milk or Ball of Wool.
+
+- Collect cats and spend them to earn even more cats.
+
+## Features
+
+The game will be made using Python and TKinter. Your data (number of cats, which upgrade at which level, etc...) will be saved on a json file.
+
+Data manipulation & File manipulation: Json Save file  
+Graphical Interface: TKinter  
+Report Generation: Live report (statistic page) and review report (feedback on the run at the end)
